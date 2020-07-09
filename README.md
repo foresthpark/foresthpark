@@ -2,19 +2,19 @@
 
 Hi there 👋 I'm a full stack developer in Calgary and I enjoy making cool stuff with cool people. Let's make cool stuff together.
 
-### **🔭 Languages**
+### **🔭  Languages**
 - Javascript
 - Python
 - Dart
 
-### **👯 I’m looking to collaborate on**
+### **👯  I’m looking to collaborate on**
 - Building cool things with cool people
 
-### **💬 Ask me about ...**
+### **💬  Ask me about**
 - Flutter
 - Bouldering
 
-### **📫 How to reach me**-
+### **📫  How to reach me**
 - email: forest@forestpark.dev
 - linkedin: https://www.linkedin.com/in/forestpark
 - webpage: https://forestpark.dev
