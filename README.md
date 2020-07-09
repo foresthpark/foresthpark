@@ -15,6 +15,6 @@ Hi there 👋 I'm a full stack developer in Calgary and I enjoy making cool stuf
 - Bouldering
 
 ### **📫 How to reach me**-
- email: forest@forestpark.dev
+- email: forest@forestpark.dev
 - linkedin: https://www.linkedin.com/in/forestpark
 - webpage: https://forestpark.dev
