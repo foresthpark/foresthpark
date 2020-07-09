@@ -1,6 +1,6 @@
 ### Forest Park - Full Stack Developer
 
-Hi there 👋 I'm a full stack developer in Calgary and I enjoy making cool stuff. Let's make cool stuff together.
+Hi there 👋 I'm a full stack developer in Calgary and I enjoy making cool stuff with cool people. Let's make cool stuff together.
 
 ### **🔭 Languages**
 - Javascript
