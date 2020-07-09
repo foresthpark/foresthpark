@@ -1,16 +1,20 @@
-### Hi there 👋
+### Forest Park - Full Stack Developer
 
-<!--
-**foresthpark/foresthpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm a full stack developer in Calgary and I enjoy making cool stuff. Let's make cool stuff together.
 
-Here are some ideas to get you started:
+### **🔭 Languages**
+- Javascript
+- Python
+- Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **👯 I’m looking to collaborate on**
+- Building cool things with cool people
+
+### **💬 Ask me about ...**
+- Flutter
+- Bouldering
+
+### **📫 How to reach me**-
+ email: forest@forestpark.dev
+- linkedin: https://www.linkedin.com/in/forestpark
+- webpage: https://forestpark.dev
