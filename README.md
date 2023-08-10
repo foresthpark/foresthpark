@@ -29,7 +29,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://forest-github-readme-stats.vercel.app/api?username=foresthpark&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+<div align="center"><img src="https://forest-github-readme-stats.vercel.app/api?username=foresthpark&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" align="center" /></div>  
 
 <br/>  
 
