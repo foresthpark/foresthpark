@@ -1,4 +1,6 @@
-<div align="center">[[https://spotify-github-profile.vercel.app/api/view.svg?uid=q0mpf91k0684gaellarx08d71&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=q0mpf91k0684gaellarx08d71&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]</div>  
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=q0mpf91k0684gaellarx08d71&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)"/>  
+</div>  
 
 <br/>  
 
