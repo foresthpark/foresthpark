@@ -1,20 +1,10 @@
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=q0mpf91k0684gaellarx08d71&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)"/>  
-</div>  
-
-<br/>  
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=foresthpark&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
-
 <br />
-
-
 
 ## Connect with me  
 <div align="center">
@@ -29,12 +19,6 @@
 </a> 
 </div>  
 </div>  
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://forest-github-readme-stats.vercel.app/api?username=foresthpark&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" align="center" /></div>  
-
 <br/>  
 
 ## Forest
