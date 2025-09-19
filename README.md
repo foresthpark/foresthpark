@@ -4,14 +4,7 @@
   
 <br/>  
 
-<br />
-
  
-<br/>
-  <div align="center">
-<a href="https://coffee.forestp.dev" target="_blank">
-☕️ Buy me a coffee
-</a> 
 </div>  
 </div>  
 <br/>  
